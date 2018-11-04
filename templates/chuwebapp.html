@@ -1,0 +1,108 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title> Panama Papers Leaks </title>
+  <link href="{{ url_for('static', filename='css/bootstrap.min.css')}}" rel="stylesheet"/>
+  <link rel="shortcut icon" href="{{ url_for('static', filename='images/buildingicon.png')}}">
+</head>
+
+{% include 'header.html' %}
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style> /* set the CSS */
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
+
+</style>
+<body>
+
+<!-- load the d3.js library -->    	
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+
+// set the dimensions and margins of the graph
+var margin = {top: 20, right: 20, bottom: 30, left: 50},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+// parse the date / time
+var parseTime = d3.timeParse("%Y-%m-%d %H:%M:%S");
+
+// set the ranges
+var x = d3.scaleTime().range([0, width]);
+var y = d3.scaleLinear().range([height, 0]);
+
+// define the line
+var valueline = d3.line()
+    .x(function(d) { return x(d.realisation_date); })
+    .y(function(d) { return y(d.result); });
+
+// append the svg obgect to the body of the page
+// appends a 'group' element to 'svg'
+// moves the 'group' element to the top left margin
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform",
+          "translate(" + margin.left + "," + margin.top + ")");
+
+// apply the reults of the least squares regression
+    var x1;
+    var y1;
+    var x2;
+    var y2;
+    var trendData = [[x1,y1,x2,y2]];
+
+    var trendline = svg.selectAll(".trendline")
+      .data(trendData);
+      
+    trendline.enter()
+      .append("line")
+      .attr("class", "trendline")
+      .attr("x1", function(d) { return "39"; })
+      .attr("y1", function(d) { return "154.45350919798432"; })
+      .attr("x2", function(d) { return "579"; })
+      .attr("y2", function(d) { return "79.78350737660129"; })
+      .attr("stroke", "black")
+      .attr("stroke-width", 1);
+
+// Get the data
+d3.csv('static/testCalendar.csv', function(error, data) {
+  if (error) throw error;
+
+  console.log(data[0]);
+  // format the data
+  data.forEach(function(d) {
+      d.realisation_date = parseTime(d.realisation_date);
+      d.result = +d.result;
+  });
+
+  // Scale the range of the data
+  x.domain(d3.extent(data, function(d) { return d.realisation_date; }));
+  y.domain([0.992208997414502, d3.max(data, function(d) { return d.result; })]);
+
+  // Add the valueline path.
+  svg.append("path")
+      .data([data])
+      .attr("class", "line")
+      .attr("d", valueline);
+
+  // Add the X Axis
+  svg.append("g")
+      .attr("transform", "translate(0," + height + ")")
+      .call(d3.axisBottom(x));
+
+  // Add the Y Axis
+  svg.append("g")
+      .call(d3.axisLeft(y));
+
+});
+
+</script>
+</body>

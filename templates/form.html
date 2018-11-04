@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title> Panama Papers Leaks </title>
+  <link href="{{ url_for('static', filename='css/bootstrap.min.css')}}" rel="stylesheet"/>
+  <link rel="shortcut icon" href="{{ url_for('static', filename='images/buildingicon.png')}}">
+</head>
+
+{% include 'header.html' %}
+
+<script>
+
+    function filterCity(){
+		var province = $("#depart").find('option:selected').val(); // stores province
+		$("#option-container").children().appendTo("#destination"); // moves <option> contained in #option-container back to their <select>
+		var toMove = $("#destination").children("[data-province!='"+province+"']"); // selects city elements to move out
+		toMove.appendTo("#option-container"); // moves city elements in #option-container
+		$("#destination").removeAttr("disabled"); // enables select
+	};
+
+</script>
+
+<form method="post">
+	<label>chercher  : </label>
+  <p><input type="text" name="recherche" /></p>
+
+
+
+	<script language="JavaScript" type="text/javascript" src="./static/js/jquery-1.2.6.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="./static/js/jquery-ui-personalized-1.5.2.packed.js"></script>
+	<script language="JavaScript" type="text/javascript" src="./static/js/sprinkle.js"></script>
+
+</form>

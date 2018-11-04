@@ -1,0 +1,249 @@
+Rank,Country (or dependent territory),Population,Date,"% of world
+population",Source,,
+1,U.S. Virgin Islands,4,10/24/2014,17.50%,Population clock,VIR,null
+2,Pakistan,3,10/24/2014,19%,Official population clock,PAK,null
+3,Isle of Man,4647,10/24/2014,4.43%,Official population clock,IMN,
+4,Brazil,1326,7/1/2014,3.50%,Official estimate,BRA,null
+5,Colombia,1811,10/24/2014,2.83%,Official population clock,COL,null
+6,Uganda,1,7/1/2014,2.61%,Official annual projection,UGA,null
+7,Macedonia,2,7/1/2014,2.48%,UN projection[6],MKD,null
+8,Singapore,4051,10/24/2014,2.18%,Official population clock,SGP,null
+9,Namibia,2,8/1/2014,2.03%,Official estimate,NAM,null
+10,Saint Lucia,3,10/1/2014,1.77%,Monthly official estimate,LCA,null
+11,Liberia,1,7/1/2014,1.66%,Official projection,LBR,null
+12,Gibraltar,2007,10/24/2014,1.40%,Official population clock,GIB,null
+13,Barbados,32,7/1/2013,1.25%,Official estimate,BRB,null
+14,Zambia,2,7/1/2014,1.22%,Official projection,ZMB,null
+15,Anguilla,10,10/24/2014,1.21%,Official population clock,AIA,null
+16,Mauritius,1200,12/31/2013,1.12%,Official estimate,MUS,null
+17,Vanuatu,4,10/24/2014,1.08%,Official population clock,VUT,null
+18,Guatemala,1113,12/31/2013,1.07%,Annual official estimate,GTM,null
+19,Japan,24,7/1/2014,0.96%,UN projection,JPN,null
+20,Nicaragua,12,10/1/2014,0.92%,Monthly official estimate,NIC,null
+21,South Africa,106,7/1/2014,0.90%,Official estimate,ZAF,null
+22,Israel,647,7/1/2013,0.89%,Annual official estimate,ISR,
+23,Angola,10,4/30/2014,0.84%,Monthly official estimate,AGO,null
+24,Turks and Caicos Islands,12,7/1/2014,0.75%,Official estimate,TCA,null
+25,Haiti,8,3/29/2014,0.71%,Preliminary 2014 census result,HTI,null
+26,Slovakia,1,7/1/2014,0.70%,Official projection,SVK,
+27,Bolivia,93,10/24/2014,0.67%,Official population clock,BOL,null
+28,Hong Kong,37391,7/1/2014,0.66%,Official Projection,HKG,null
+29,Germany,173,1/1/2014,0.63%,Annual official estimate,DEU,
+30,Sudan,1,8/1/2014,0.60%,Monthly official estimate,SDN,null
+31,American Samoa,1,7/1/2014,0.59%,Official annual projection,ASM,null
+32,Montenegro,13,7/1/2013,0.58%,Annual official estimate,MNE,null
+33,Malawi,1,1/1/2014,0.54%,Official estimate,MWI,null
+34,Romania,7,12/31/2013,0.53%,Official estimate,ROU,null
+35,Peru,46,7/1/2014,0.52%,Official annual projection,PER,null
+36,Monaco,3103,7/1/2014,0.51%,Annual official estimate,MCO,null
+37,Malaysia,36,7/1/2014,0.50%,Official annual projection,MYS,null
+38,Bahamas,3791,7/1/2014,0.49%,Official estimate,BHS,null
+39,Finland,63,10/24/2014,0.46%,Official population clock,FIN,null
+40,Zimbabwe,8,7/1/2014,0.43%,Official annual projection,ZWE,null
+41,Slovenia,21,7/1/2014,0.43%,Official annual projection,SVN,null
+42,Sint Maarten (Dutch part),1,1/1/2014,0.42%,Official estimate,SXM,null
+43,Costa Rica,878,10/24/2014,0.42%,Official population clock,CRI,null
+44,Paraguay,126,6/30/2014,0.42%,Official annual projection,PRY,null
+45,Turkey,99,7/1/2014,0.38%,Official annual projection,TUR,null
+46,Antigua and Barbuda,18,6/22/2011,0.37%,Final 2011 census result,ATG,null
+47,Lesotho,1,7/1/2013,0.36%,Official estimate,LSO,null
+48,Australia,94,7/1/2014,0.36%,Official estimate,AUS,null
+49,Djibouti,1,7/1/2014,0.35%,Annual official projection,DJI,null
+50,Canada,345,7/1/2014,0.35%,UN projection,CAN,null
+51,Portugal,227,5/16/2014,0.34%,Preliminary 2014 census result,PRT,null
+52,Cyprus,3556,10/24/2014,0.33%,Official population clock,CYP,null
+53,Trinidad and Tobago,6,9/30/2014,0.33%,Monthly official estimate,TTO,null
+54,Albania,2,7/1/2012,0.32%,Official estimate,ALB,null
+55,Switzerland,36634,7/1/2014,0.31%,UN projection[13],CHE,null
+56,Netherlands,175,7/1/2012,0.30%,Annual official estimate,NLD,null
+57,Central African Republic,1,7/1/2012,0.28%,Official estimate,CAF,null
+58,Philippines,39,3/21/2012,0.28%,Preliminary 2012 census result,PHL,null
+59,Cuba,11,1/1/2014,0.28%,Annual official estimate,CUB,null
+60,Aruba,27,7/1/2014,0.25%,Official annual projection,ABW,null
+61,China,3184,9/1/2014,0.24%,Monthly official estimate,CHN,null
+62,Poland,157,7/1/2013,0.24%,Official estimate,POL,null
+63,Côte d'Ivoire,19,12/10/2012,0.24%,Preliminary 2012 census result,CIV,null
+64,New Zealand,60,10/24/2014,0.23%,Official population clock,NZL,null
+65,Qatar,27,10/24/2014,0.22%,Official population clock,QAT,null
+66,Taiwan,2673,6/30/2014,0.22%,Official estimate,TWN,null
+67,Venezuela,720,7/1/2014,0.22%,Official annual projection,VEN,null
+68,Egypt,38,7/1/2014,0.22%,UN projection,EGY,null
+69,Cook Islands,1,7/1/2014,0.21%,Official annual projection,COK,null
+70,Kuwait,60,7/1/2014,0.21%,Official estimate,KWT,null
+71,Nigeria,21,11/19/2013,0.19%,2013 census result,NGA,null
+72,Latvia,1379,7/1/2014,0.18%,UN projection,LVA,null
+73,Dominican Republic,477,8/17/2012,0.18%,2012 Census Result,DOM,null
+74,Spain,1109,7/1/2014,0.16%,Official annual projection,ESP,null
+75,Kenya,25,9/1/2014,0.16%,Monthly official estimate,KEN,null
+76,Dominica,62,12/31/2013,0.16%,Annual official estimate,DMA,null
+77,Lithuania,29,7/1/2014,0.15%,Official annual projection,LTU,null
+78,Saudi Arabia,106,1/1/2014,0.15%,Official estimate,SAU,null
+79,Austria,23,4/23/2014,0.15%,Preliminary 2014 census result,AUT,null
+80,Kazakhstan,4,7/1/2014,0.15%,UN projection,KAZ,null
+81,Estonia,862,2014,0.15%,Official projection,EST,null
+82,Yemen,1,4/2/2014,0.15%,Preliminary 2014 census result,YEM,null
+83,Honduras,24,6/30/2014,0.15%,Official quarterly estimate,HND,null
+84,Greece,214,12/31/2013,0.15%,Annual official estimate,GRC,null
+85,Puerto Rico,1,2014,0.14%,Official estimate,PRI,null
+86,Bangladesh,2,11/21/2012,0.14%,2012 census result,BGD,null
+87,Macao,25,7/1/2014,0.14%,Official annual projection,MAC,null
+88,Uzbekistan,5,1/1/2014,0.14%,Annual official estimate,UZB,null
+89,Morocco,41,8/31/2014,0.14%,Monthly official estimate,MAR,null
+90,Uruguay,4844,8/1/2014,0.13%,Official estimate,URY,null
+91,Jamaica,4,7/1/2014,0.13%,Official annual projection,JAM,null
+92,Ireland,307,7/1/2014,0.13%,Quarterly official estimate,IRL,null
+93,Bulgaria,50,7/1/2014,0.13%,UN projection,BGR,null
+94,Saint Vincent and the Grenadines,6,7/1/2014,0.12%,Annual official estimate,VCT,null
+95,Chile,139,4/1/2014,0.12%,Official quarterly estimate,CHL,null
+96,Ghana,3,8/31/2014,0.11%,Official Monthly Estimate,GHA,null
+97,Syria,4,6/30/2014,0.11%,Quarterly provisional figure,SYR,null
+98,Sri Lanka,3,1/1/2014,0.11%,Official estimate,LKA,null
+99,Seychelles,611,7/1/2013,0.10%,Annual official estimate,SYC,null
+100,Guernsey,7219,12/31/2013,0.10%,Official estimate,GGY,null
+101,Italy,340,7/1/2014,0.10%,Official estimate,ITA,
+102,Lebanon,453,1/1/2014,0.10%,Annual official estimate,LBN,null
+103,Ukraine,273,7/1/2014,0.10%,UN projection,UKR,null
+104,Cayman Islands,106,2014,0.10%,Official estimate,CYM,null
+105,Bermuda,140,7/1/2014,0.09%,Annual official projection,BMU,null
+106,France,278,10/24/2014,0.09%,Official population clock,FRA,null
+107,India,20,7/1/2014,0.09%,UN projection,IND,null
+108,Tanzania,3,2014,0.09%,Official estimate,TZA,null
+109,Russian Federation,4167,7/1/2014,0.09%,UN projection,RUS,null
+110,Georgia,1,7/1/2014,0.09%,UN projection,GEO,null
+111,El Salvador,228,2013,0.09%,Official estimate,SLV,null
+112,Belarus,16,10/24/2014,0.08%,Official population clock,BLR,null
+113,Indonesia,28,2014,0.08%,Official estimate,IDN,null
+114,Iceland,15,7/1/2014,0.08%,Quarterly official estimate,ISL,null
+115,Panama,14651,7/1/2014,0.08%,Official estimate,PAN,null
+116,Bahrain,12,9/30/2014,0.08%,Monthly official estimate,BHR,null
+117,Cameroon,1,12/31/2013,0.08%,Official estimate,CMR,null
+118,Czech Republic,33,7/1/2014,0.07%,Quarterly official estimate,CZE,null
+119,Sweden,53,7/1/2014,0.07%,UN projection,SWE,null
+120,Denmark,14,7/1/2013,0.07%,Official estimate,DNK,null
+121,Mali,8,4/1/2014,0.06%,Annual official estimate,MLI,
+122,Ecuador,1768,7/1/2014,0.06%,UN projection,ECU,null
+123,Jordan,1546,7/1/2014,0.06%,Official estimate,JOR,null
+124,Iran,4,10/24/2014,0.06%,Official population clock,IRN,null
+125,Moldova,2,1/1/2014,0.06%,Annual official estimate,MDA,null
+126,Jersey,14142,7/1/2014,0.06%,UN projection,JEY,null
+127,Norway,13,7/1/2012,0.06%,Annual official estimate,NOR,null
+128,Chad,11,7/1/2012,0.06%,Official estimate,TCD,null
+129,Andorra,472,10/22/2014,0.06%,Weekly official estimate,AND,null
+130,,781,10/15/2013,0.05%,Preliminary 2013 census result,,null
+131,Argentina,267,2014,0.05%,Official estimate,ARG,null
+132,Luxembourg,10436,7/1/2013,0.05%,Official estimate,LUX,null
+133,Thailand,956,1/1/2014,0.05%,Official estimate,THA,null
+134,Oman,2,7/1/2014,0.05%,Annual official estimate,OMN,null
+135,Samoa,1530,6/30/2014,0.05%,Annual official estimate,WSM,null
+136,Azerbaijan,8,7/1/2011,0.04%,Official estimate,AZE,null
+137,United Kingdom,9460,6/30/2014,0.04%,Monthly official estimate,GBR,null
+138,Viet Nam,7,10/24/2014,0.04%,Official population clock,VNM,null
+139,Guam,1,10/1/2014,0.04%,Monthly official estimate,GUM,null
+140,British Virgin Islands,951,1/1/2014,0.04%,Annual official estimate,VGB,null
+141,Saint Kitts and Nevis,187,12/31/2013,0.04%,Annual official estimate,KNA,null
+142,Botswana,6,9/30/2014,0.03%,Monthly official estimate,BWA,null
+143,Mozambique,3,8/28/2011,0.03%,Final 2011 census result,MOZ,null
+144,Malta,671,7/1/2014,0.03%,UN projection,MLT,null
+145,Curaçao,29,12/31/2013,0.03%,Official estimate,CUW,null
+146,Niue,326,10/24/2014,0.03%,Official population clock,NIU,null
+147,Mexico,64,8/22/2011,0.03%,Final 2011 census result,MEX,null
+148,Senegal,3,10/1/2014,0.03%,Monthly official estimate,SEN,null
+149,Belize,1304,4/15/2013,0.03%,Preliminary 2013 census result,BLZ,null
+150,Liechtenstein,2043,2014,0.03%,Official annual projection,LIE,null
+151,Tunisia,4,7/1/2014,0.02%,UN projection,TUN,null
+152,Brunei,1,7/1/2014,0.02%,UN projection,BRN,null
+153,Libya,2,7/1/2013,0.02%,Annual official estimate,LBY,null
+154,Hungary,86,1/9/2011,0.02%,2011 census result,HUN,null
+155,United Arab Emirates,6998,7/1/2014,0.02%,Official annual projection,ARE,null
+156,United States,2966,1/1/2014,0.02%,Official estimate,USA,null
+157,Belgium,58,7/1/2014,0.02%,Official estimate,BEL,null
+158,Croatia,3,7/1/2014,0.02%,Official estimate,HRV,null
+159,South Korea,8,7/1/2014,0.02%,Official projection,KOR,null
+160,,,7/1/2014,0.01%,UN projection,,null
+161,,,7/1/2013,0.01%,Annual official estimate,,null
+162,,,1/1/2014,0.01%,Official estimate,,null
+163,,,1/1/2013,0.01%,Official annual estimate,,dep
+164,,,7/1/2010,0.01%,Annual official estimate,,null
+165,,,7/1/2014,0.01%,Official estimate,,null
+166,,,10/24/2014,0.01%,Official population clock,,null
+167,,,4/1/2011,0.01%,Final 2011 census result,,null
+168,,,3/31/2014,0.01%,Official quaterly estimate,,dep
+169,,,7/1/2014,0.01%,UN projection,,null
+170,,,7/1/2013,0.01%,Annual official estimate,,null
+171,,,12/31/2013,0.01%,Annual official estimate,,null
+172,,,8/13/2012,0.01%,PreliAUSminary 2012 census result,,null
+173,,,7/1/2014,0.01%,Official annual projection,,null
+,,,1/1/2014,0.01%,Official estimate,,null
+174,,,11/20/2011,0.01%,Preliminary 2011 census result,,null
+175,,,1/1/2013,0.01%,Official annual estimate,,dep
+176,,,6/20/2011,0.01%,Preliminary 2011 census result,,null
+177,,,1/1/2013,0.01%,Official annual estimate,,dep
+178,,,7/1/2013,0.01%,Annual official estimate,,null
+179,,,7/1/2013,0.00%,Official estimate,,null
+180,,,7/1/2014,0.00%,Official estimate,,null
+181,,,10/1/2014,0.00%,Official quaterly estimate,,null
+,,,4/30/2006,0.00%,Official census,,null
+182,,,7/1/2013,0.00%,Official estimate,,null
+183,,,8/22/2012,0.00%,Preliminary 2012 census result,,dep
+184,,,7/1/2013,0.0AUS0%,Annual official estimate,,null
+185,,,7/1/2013,0.00%,Annual official estimate,,dep
+,,,2011,0.00%,Official census,,null
+186,,,1/1/2011,0.00%,Official annual estimate,,dep
+187,,,8/21/2012,0.00%,2012 census result,,dep
+188,,,11/7/2011,0.00%,Final 2011 census result,,null
+189,,,5/13/2012,0.00%,2012 census result,,null
+190,,,7/1/2014,0.00%,UN projection,,null
+191,,,4/1/2010,0.00%,Final 2010 census result,,null
+192,,,3/26/2011,0.00%,2011 census result,,dep
+193,,,7/1/2014,0.00%,UN projection,,null
+194,,,7/1/2013,0.00%,Annual official estimate,,null
+195,,,4/1/2010,0.00%,Final 2010 census result,,null
+196,,,5/12/2011,0.00%,2011 census result,,null
+197,,,11/30/2011,0.00%,2011 census result,,null
+198,,,9/29/2010,0.00%,2010 census result,,dep
+199,,,7/1/2013,0.00%,Annual official estimate,,null
+200,,,12/31/2012,0.00%,Annual official estimate,,dep
+201,,,7/1/2013,0.00%,Annual official estimate,,null
+202,,,5/27/2011,0.00%,Preliminary 2011 census result,,null
+203,,,3/27/2011,0.00%,2011 census result,,dep
+204,,,7/1/2013,0.00%,Annual official estimate,,null
+205,,,5/14/2011,0.00%,Preliminary 2011 census result,,null
+206,,,5/20/2010,0.00%,Final 2010 census result,,dep
+207,,,3/31/2012,0.00%,Annual official estimate,,dep
+208,,,7/1/2014,0.00%,Annual official estimate,,null
+209,,,7/1/2013,0.00%,Annual official estimate,,null
+210,,,4/1/2010,0.00%,Final 2010 census result,,null
+211,,,10/10/2010,0.00%,Final 2010 census result,,dep
+212,,,7/1/2014,0.00%,UN projection,,null
+213,,,4/1/2010,0.00%,Final 2010 census result,,null
+,,,1/1/2013,0.00%,Estimate,,null
+214,,,8/1/2014,0.00%,Monthly official estimate,,null
+215,,,1/1/2010,0.00%,Official estimate,,dep
+216,,,12/31/2013,0.00%,Semi annual official estimate,,null
+217,,,1/1/2010,0.00%,Official estimate,,dep
+218,,,12/31/2013,0.00%,Annual official estimate,,null
+219,,,8/31/2014,0.00%,Monthly official estimate,,null
+220,,,1/25/2012,0.00%,2012 census result,,dep
+221,,,12/31/2012,0.00%,Annual official estimate,,dep
+222,,,7/1/2010,0.00%,Annual official estimate,,dep
+223,,,9/30/2014,0.00%,Official estimate,,null
+224,,,1/1/2013,0.00%,Official estimate,,dep
+225,,,7/1/2013,0.00%,Annual official estimate,,null
+226,,,12/1/2011,0.00%,Final 2011 census result,,null
+227,,,5/11/2011,0.00%,Preliminary 2011 census result,,dep
+228,,,7/1/2013,0.00%,Annual official estimate,,dep
+229,,,7/1/2013,0.00%,Annual official estimate,,null
+230,,,10/30/2011,0.00%,2011 census result,,null
+231,,,1/1/2010,0.00%,Official estimate,,dep
+232,,,1/1/2010,0.00%,Official estimate,,dep
+233,,,5/12/2011,0.00%,2011 census result,,dep
+234,,,7/1/2014,0.00%,UN projection,,dep
+235,,,7/1/2014,0.00%,UN projection,,dep
+236,,,9/1/2012,0.00%,Official estimate,,null
+237,,,8/9/2011,0.00%,2011 census result,,dep
+238,,,8/9/2011,0.00%,2011 census result,,dep
+239,,,9/10/2011,0.00%,Final 2011 census result,,null
+240,,,10/18/2011,0.00%,Final 2011 census result,,null
+241,,,7/1/2012,0.00%,Official estimate,,null
+242,,,8/9/2011,0.00%,2011 census result,,dep
+243,,,2013,0.00%,Official estimate,,dep
